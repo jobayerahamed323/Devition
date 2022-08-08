@@ -1,0 +1,65 @@
+div.mainbody {
+    height: 1200px;
+    width: 1500px;
+    margin: auto;
+    background-color: black;
+}
+div.header {
+    height: 175px;
+    width: 1475px;
+    background-color: #00a6ff;
+    margin: auto;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+div.menu {
+    height: 50px;
+    width: 1500px;
+    background-color: aqua;
+}
+div.slaide {
+    height: 300px;
+    width: 1500px;
+    background-color: blue;
+    margin: auto;
+}
+div.body {
+    height: 650px;
+    width: 1500px;
+    background-color: rgb(242, 255, 0);
+}
+div.fotter {
+    height: 250px;
+    width: 1500px;
+    background-color: rgb(255, 0, 0);
+}
+div.logo {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 0, 166);
+}
+div.bodyslide {
+    height: 650px;
+    width: 300px;
+    background-color: rgb(33, 35, 1);
+    margin-left: 1200px;
+}
+div.slideleft {
+    height: 300px;
+    width: 500px;
+    background-color: beige;
+}
+div.slidecenter {
+    height: 300px;
+    width: 500px;
+    background-color: rgb(48, 48, 4);
+    margin-left: 500px;
+    margin-top: -300px;
+}
+div.slaidright {
+    height: 300px;
+    width: 500px;
+    background-color: rgb(160, 102, 22);
+    margin-left: 1000px;
+    margin-top: -300px;
+}
